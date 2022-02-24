@@ -2,12 +2,12 @@
     "devices": [
       {
       "name"      : "Mega",
-      "chip"      : "ATmega 1280",
-      "device"    : "m1280",
+      "chip"      : "MegaCMD",
+      "device"    : "m2560",
       "programmer": "arduino",
-      "baud"      : "57600"
+      "baud"      : "115200"
       },
-      
+
       {
       "name"      : "Mega",
       "chip"      : "ATmega 2560",
