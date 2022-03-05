@@ -178,7 +178,7 @@
 				ORGANIZATIONNAME = "Open Reel Software";
 				TargetAttributes = {
 					9D66D80D159BCAB800EE6D09 = {
-						DevelopmentTeam = 8DBY2Q72HQ;
+						DevelopmentTeam = 44F8GMR4PJ;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
 								enabled = 0;
@@ -313,11 +313,14 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8DBY2Q72HQ;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 44F8GMR4PJ;
+				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sources/HexUploader-Prefix.pch";
 				INFOPLIST_FILE = "Resources/HexUploader-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_NAME = HexUploader;
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -329,14 +332,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8DBY2Q72HQ;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 44F8GMR4PJ;
+				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sources/HexUploader-Prefix.pch";
 				INFOPLIST_FILE = "Resources/HexUploader-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_NAME = HexUploader;
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
